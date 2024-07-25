@@ -1,0 +1,10 @@
+variavel,descricao,tipo,subtipo
+mpg,representa uma medida de eficiencia de combustivel,Numerico,Continuo
+cylinders,"representa uma contagem de cilindros, um valor inteiro",Numerico,Discreto
+displacement,"representa o volume do motor, uma medida contínua",Numerico,Continuo
+horsepower,"representa a potência do motor, uma medida contínua",Numerico,Continuo
+weight,"representa o peso do carro, uma medida contínua",Numerico,Continuo
+acceleration,"representa o tempo de aceleração do carro, uma medida contínua",Numerico,Continuo
+model_year,"Representa o ano do modelo do carro, um valor inteiro",Numerico,Discreto
+origin,"representa a origem do carro, uma categoria sem ordem intrínseca: 'usa', 'japan', 'europe'",Categorico,Nominal
+name,"representa o nome completo do carro, uma categoria sem ordem intrínseca",Categorico,Nominal
